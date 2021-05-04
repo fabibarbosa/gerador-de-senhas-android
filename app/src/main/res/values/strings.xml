@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Gerador de senhas</string>
     <string name="txt_symbols">Simbolos</string>
-    <string name="txt_letter_uper">Maiscúlas</string>
+    <string name="txt_letter_uper">Maiúsculas</string>
     <string name="txt_numbers">Números</string>
     <string name="txt_letter">Letras</string>
     <string name="btn_gerar">Gerar</string>
