@@ -12,7 +12,6 @@ import android.widget.SeekBar
 import android.widget.TextView
 import com.google.android.material.snackbar.Snackbar
 
-
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

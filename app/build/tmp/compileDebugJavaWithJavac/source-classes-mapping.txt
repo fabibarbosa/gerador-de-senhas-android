@@ -1,0 +1,2 @@
+br/com/fabibarbosa/geradordesenhas/BuildConfig.java
+ br.com.fabibarbosa.geradordesenhas.BuildConfig
