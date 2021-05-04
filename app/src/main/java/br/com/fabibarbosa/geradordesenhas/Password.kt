@@ -1,6 +1,6 @@
 import android.widget.TextView
 
-open class Password () {
+abstract class Password () {
     var password = ""
     fun generatePassword (passwordSize : Int, caracteres : String, output : TextView) {
         this.password = ""
