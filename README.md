@@ -4,7 +4,7 @@
 - [x] Geração de senhas com diferentes opções
 - [x] Copiar senha 
 
-<img src="https://github.com/fabibarbosa/gerador-de-senhas-android/blob/main/Screenshot_1620156123.png"/>
+<img src="https://github.com/fabibarbosa/gerador-de-senhas-android/blob/main/Screenshot_1620156123.png" height: 387px/>
 ### 🔧 Instalação
 Para rodar o projeto é simples, basta baixar os arquivos em seu computador e iniciar o projeto através do android studio.
 
