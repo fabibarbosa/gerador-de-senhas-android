@@ -60,8 +60,6 @@ class MainActivity : AppCompatActivity() {
             }else {
                 Snackbar.make(it,"Você deve ativar ao menos uma opção", Snackbar.LENGTH_SHORT).show()
             }
-
-
         }
     }
 
