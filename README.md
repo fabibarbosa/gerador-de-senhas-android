@@ -5,7 +5,8 @@
 - [x] Copiar senha 
 
 <div align="center">
-    <img src="https://github.com/fabibarbosa/gerador-de-senhas-android/blob/main/Screenshot_1620156123.png" width="400px"</img> 
+    <img src="https://github.com/fabibarbosa/gerador-de-senhas-android/blob/main/Screenshot_1620156118.png" width="400px"></img>
+    <img src="https://github.com/fabibarbosa/gerador-de-senhas-android/blob/main/Screenshot_1620156123.png" width="400px"></img> 
 </div>
 ### 🔧 Instalação
 Para rodar o projeto é simples, basta baixar os arquivos em seu computador e iniciar o projeto através do android studio.
